@@ -11,7 +11,8 @@ npm install
 
 ## Usage
 
-| Commands    | Description
+| Commands    | Description |
+| --- | --- |
 | `npm run dev`   | Watch for code change and serve the bundled javascript file from `dist/index.js`. By default the server will be listening on `localhost:8080` |
 | `npm run build` | Build a javascript file into `dist/index.js`. You may manually transfer this file into your Android device. |
 | `npm run watch` | Used by `npm run dev`. Rebundle javascript file when it detected any change in the source code.
