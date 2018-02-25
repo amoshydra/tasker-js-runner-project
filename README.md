@@ -1,7 +1,7 @@
 # tasker-js-runner-project
 
 A sample project that make use of https://github.com/amoshydra/tasker-js-runner
-
+![](https://i.imgur.com/kVxDqf2.png)
 See [Tasker-JS-Runner](https://github.com/amoshydra/tasker-js-runner) for details on using the library and set up on your Tasker.
 
 ## Install
