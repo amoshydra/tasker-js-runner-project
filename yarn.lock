@@ -6402,10 +6402,10 @@ tar@^4, tar@^4.4.8:
     safe-buffer "^5.1.2"
     yallist "^3.0.2"
 
-tasker-js-runner@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/tasker-js-runner/-/tasker-js-runner-1.0.0.tgz#031e9e8d4c5382c02f49edcc5d0d3312f3720c77"
-  integrity sha512-YzEV2kzk82v7njHVm15eG7cZ/1xxWjxDXm2N/tzXRnvFmlAfih00sLdhjOK0BSfmf+f2deal+dfDEpHQBfa9QA==
+tasker-js-runner@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/tasker-js-runner/-/tasker-js-runner-1.0.1.tgz#5f21cf5a7c07b2bf0b3e47dfea0282721fbe86fe"
+  integrity sha512-grD4P8Z9W3r7e5vqWEwNxGQ+tVCi4WRUnyInmAerpqlHCATpFds+lnfhnhC1CeT1jWYcvxY571hrzLZpGwnIAg==
 
 term-size@^1.2.0:
   version "1.2.0"
