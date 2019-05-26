@@ -3222,9 +3222,10 @@ tar@^2.2.1:
     fstream "^1.0.2"
     inherits "2"
 
-tasker-js-runner@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/tasker-js-runner/-/tasker-js-runner-0.1.2.tgz#bc45cbd4567ead1f3bbd0fa5a37f32c92be1acdd"
+tasker-js-runner@^0.1.3:
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/tasker-js-runner/-/tasker-js-runner-0.1.3.tgz#51e272b0db0451ed4fb38c5fd4f41017125c4fb9"
+  integrity sha512-SHC7Dvdg7RJWAsi08tEzyMlGgZSPaAf+cCIrwB6AsnnbIGhyeTTWIzcCqNiyTVwsW3ee8w8V+q9eUeijKxJR6A==
 
 text-table@~0.2.0:
   version "0.2.0"

@@ -24,6 +24,6 @@
     "webpack": "^3.11.0"
   },
   "dependencies": {
-    "tasker-js-runner": "^0.1.2"
+    "tasker-js-runner": "^0.1.3"
   }
 }
