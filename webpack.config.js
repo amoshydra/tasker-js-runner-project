@@ -20,7 +20,10 @@ module.exports = {
     rules: [
       {
         test: /\.js$/,
-        exclude: /(node_modules|bower_components)/,
+        include: [
+          path.resolve('src'),
+          path.resolve('node_modules/tasker-js-runner'),
+        ],
         use: {
           loader: 'babel-loader',
           options: {
